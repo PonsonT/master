@@ -5,10 +5,18 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>simple</groupId>
-  <artifactId>simple</artifactId>
+  <groupId>com.ponson.maven</groupId>
+  <artifactId>simple-maven</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   
-  <name>Replace for simple</name>
+  <name>Simple Maven Project</name>
+  <description>This is a simple maven project</description>
+  
+  <inceptionYear>2018</inceptionYear>
+  <url>http://maven.ponson.com</url>
+  
+  <build>
+	<finalName>simple-maven-final</finalName>
+  </build>
 </project>
